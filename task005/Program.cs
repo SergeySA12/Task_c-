@@ -4,7 +4,7 @@ Console.WriteLine("Введите второе целое число");
 int m = Convert.ToInt32(Console.ReadLine());
 if(n > m)
 {
-    Console.WriteLine("первое целое число = max");
+    Console.WriteLine("первое целое числj = max");
 }
 
 else
